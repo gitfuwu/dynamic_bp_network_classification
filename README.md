@@ -1,0 +1,2 @@
+# dynamic_bp_network_classification
+层数和每层神经元个数可变的BP神经网络通用代码
